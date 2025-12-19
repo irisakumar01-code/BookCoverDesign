@@ -32,7 +32,32 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 ```
-INCLUDE YOUR PROGRM HERE
+book.html
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>MyBookDoc</title>
+        <style>
+            #heading{
+                margin:auto;
+                width: 500px;
+                height: 600px;
+                text-align:center;
+                background-image: url(book.jpg);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+
+            
+        </style>
+    </head>
+    <body>
+        <div id="heading">
+            <h1 style="font-size: 80px; margin-top: 0px;">My Book</h1>
+            <h3 style="font-size: 30px; ">By Iris</h3>
+        </div>
+    </body>
+</html>
 ```
 
 ## OUTPUT:
