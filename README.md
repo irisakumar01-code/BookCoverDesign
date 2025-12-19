@@ -1,5 +1,5 @@
 # Ex.05 Book Front Cover Page Design
-## Date:
+## Date:18.12.2025
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -61,7 +61,7 @@ book.html
 ```
 
 ## OUTPUT:
-
+![alt text](<Screenshot (82)-1.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
